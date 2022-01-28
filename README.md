@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XRAY-VR
 - 👀 I’m interested in Design and Tech
-- 🌱 I’m currently learning Web3 😁 related
+- 🌱 I’m currently learning Web3 😁 related stuff
 
 
 <!---
