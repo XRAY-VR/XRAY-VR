@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://novaetch.square.site/$1"
+    }
+  ]
+}
